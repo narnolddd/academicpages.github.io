@@ -13,5 +13,3 @@ I am Naomi Arnold, PhD student within the [Networks group](https://www.eecs.qmul
 I contribute to the [FETA](https://github.com/richardclegg/FETA2) codebase for analysis of dynamic networks and their models, developed by Richard Clegg.
 
 Prior to my PhD, I gained a BA in Mathematics at Murray Edwards College, University of Cambridge. I was social secretary for the [Emmy Noether Society](http://emmynoethersoc.tumblr.com/), a fantastic society promoting women in mathematical sciences, and access officer for the Murray Edwards College students union.
-
-Outside of my studies, I enjoy exploring my newfound home in London by foot and by bike.
