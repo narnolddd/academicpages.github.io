@@ -1,7 +1,7 @@
 ---
 title: "Applied Statistics ECS764P"
 collection: teaching
-type:
+type: "Demonstrator"
 permalink: /teaching/appliedstats2017
 venue: "QMUL, School of Electronic Engineering and Computer Science"
 date: 2017-10-01
