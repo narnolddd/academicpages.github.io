@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5c980c1-068b-4a0f-8a45-03ff8b03dafa" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/files/SINM_Naomi.pdf" afterPath="$PROJECT_DIR$/files/SINM_Naomi.pdf" />
-    </list>
+    <list default="true" id="b5c980c1-068b-4a0f-8a45-03ff8b03dafa" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -135,6 +133,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="-900" />
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -302,7 +301,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="-900" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
