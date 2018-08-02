@@ -15,3 +15,15 @@ I am Naomi Arnold, a PhD student within the [Networks group](https://www.eecs.qm
 I contribute to the [FETA](https://github.com/richardclegg/FETA2) (Framework for Evolving Topology Analysis) codebase for analysis of dynamic networks and their models, developed by Richard Clegg as an implementation of a likelihood-based approach to assess dynamic network models. A discussion and examples of this methodology can be found [here.](http://www.richardclegg.org/sites/default/files/papers/feta_comnet_2015.pdf)
 
 Prior to my PhD, I gained a BA in Mathematics at Murray Edwards College, University of Cambridge. I was social secretary for the [Emmy Noether Society](http://emmynoethersoc.tumblr.com/), a fantastic society promoting women in mathematical sciences, and access officer for the Murray Edwards College students union.
+
+# News
+
+## September 2018
+
+* Attending and giving a talk at the [Mediterranean School of Complex Networks](http://mediterraneanschoolcomplex.net/) in Salina, Italy.
+* Attending the [17th Mathematics of Networks](http://www.monmeetings.org/meeting17/) meeting in Sheffield, UK.
+* Attending and presenting at the [Conference for Complex Systems](http://ccs2018.web.auth.gr/) in Thessaloniki, Greece.
+
+## August 2018
+
+* Teaching at the [Murray Edwards College STEP summer school](https://www.murrayedwards.cam.ac.uk/step-summer-school) in Cambridge, UK.
