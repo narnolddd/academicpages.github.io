@@ -27,3 +27,7 @@ Prior to my PhD, I gained a BA in Mathematics at Murray Edwards College, Univers
 ## August 2018
 
 * Teaching at the [Murray Edwards College STEP summer school](https://www.murrayedwards.cam.ac.uk/step-summer-school) in Cambridge, UK.
+
+## July 2018
+
+* Presenting at the [Multi-Service Networking Workshop](http://coseners.net/coseners-2018/) in Abingdon, UK.
