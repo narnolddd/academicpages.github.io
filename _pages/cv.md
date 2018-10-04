@@ -43,5 +43,5 @@ Teaching
 
 Service and leadership
 ======
-* Guest Reviewer for WWW Journal
+* Reviewed papers for WWW Journal and Complex Networks Conference
 * Student Volunteer at [ACM IMC 2017](https://conferences.sigcomm.org/imc/2017/)
