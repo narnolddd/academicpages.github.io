@@ -12,11 +12,15 @@ I am Naomi Arnold, a PhD student within the [Networks group](https://www.eecs.qm
 * Identification and understanding of the small-scale mechanisms governing wider network structure
 * Characterisation and detection of changes in a network's growth behaviour
 
-I contribute to the [FETA](https://github.com/richardclegg/FETA2) (Framework for Evolving Topology Analysis) codebase for analysis of dynamic networks and their models, developed by Richard Clegg as an implementation of a likelihood-based approach to assess dynamic network models. A discussion and examples of this methodology can be found [here.](http://www.richardclegg.org/sites/default/files/papers/feta_comnet_2015.pdf)
+I contribute to the [FETA](https://github.com/richardclegg/FETA2) (Framework for Evolving Topology Analysis) codebase for analysis of dynamic networks and their models, developed by Richard Clegg as an implementation of a likelihood-based approach to assess dynamic network models. A discussion and examples of this methodology can be found [here.](http://www.richardclegg.org/sites/default/files/papers/feta_comnet_2015.pdf).
 
 Prior to my PhD, I gained a BA in Mathematics at Murray Edwards College, University of Cambridge. I was social secretary for the [Emmy Noether Society](http://emmynoethersoc.tumblr.com/), a fantastic society promoting women in mathematical sciences, and access officer for the Murray Edwards College students union.
 
 # News
+
+## October 2018
+
+* Elected to the council for the [Complex Systems Society](https://cssociety.org/news/79)
 
 ## September 2018
 
