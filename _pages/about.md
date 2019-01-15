@@ -18,6 +18,10 @@ Prior to my PhD, I gained a BA in Mathematics at Murray Edwards College, Univers
 
 # News
 
+## February 2019
+
+* Taking part in the [Winter Workshop on Complex Systems](http://wwcs2019.org/) in Zakopane, Poland.
+
 ## October 2018
 
 * Elected to the council for the [Complex Systems Society](https://cssociety.org/news/79)
