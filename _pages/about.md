@@ -18,6 +18,15 @@ Prior to my PhD, I gained a BA in Mathematics at Murray Edwards College, Univers
 
 # News
 
+## July 2019
+
+* Presenting at the [Multi-Service Networks Workshop (Coseners)](http://coseners.net/coseners-2019/) in Abingdon, UK
+* Presenting with [Richard Clegg](https://www.richardclegg.org) at the [3rd UK Workshop on Network Science](https://sites.google.com/view/network-science-leeds/home) in Leeds, UK
+
+## May 2019
+
+* Attending the [NetSci](http://vermontcomplexsystems.org/events/netsci/) conference in Burlington, Vermont.
+
 ## February 2019
 
 * Taking part in the [Winter Workshop on Complex Systems](http://wwcs2019.org/) in Zakopane, Poland.
