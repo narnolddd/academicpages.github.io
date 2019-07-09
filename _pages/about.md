@@ -20,6 +20,7 @@ Prior to my PhD, I gained a BA in Mathematics at Murray Edwards College, Univers
 
 ## July 2019
 
+* Won the [Brendan Murphy Prize](http://coseners.net/history/brendan-murphy-prize/) for my talk "Mixed and time-varying models for network formation" at Coseners.
 * Presenting at the [Multi-Service Networks Workshop (Coseners)](http://coseners.net/coseners-2019/) in Abingdon, UK
 * Presenting with [Richard Clegg](https://www.richardclegg.org) at the [3rd UK Workshop on Network Science](https://sites.google.com/view/network-science-leeds/home) in Leeds, UK
 
