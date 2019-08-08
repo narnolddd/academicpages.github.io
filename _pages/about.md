@@ -12,9 +12,7 @@ I am Naomi Arnold, a PhD student within the [Networks group](https://www.eecs.qm
 * Identification and understanding of the small-scale mechanisms governing wider network structure
 * Characterisation and detection of changes in a network's growth behaviour
 
-I contribute to the [FETA](https://github.com/richardclegg/FETA2) (Framework for Evolving Topology Analysis) codebase for analysis of dynamic networks and their models, developed by Richard Clegg as an implementation of a likelihood-based approach to assess dynamic network models. A discussion and examples of this methodology can be found [here.](http://www.richardclegg.org/sites/default/files/papers/feta_comnet_2015.pdf).
-
-Prior to my PhD, I gained a BA in Mathematics at Murray Edwards College, University of Cambridge. I was social secretary for the [Emmy Noether Society](http://emmynoethersoc.tumblr.com/), a fantastic society promoting women in mathematical sciences, and access officer for the Murray Edwards College students union.
+I maintain the [FETA](https://github.com/narnolddd/FETA3) (Framework for Evolving Topology Analysis) codebase for analysis of dynamic networks and their models, [first developed by Richard Clegg](https://github.com/richardclegg/FETA2) as an implementation of a likelihood-based approach to assess dynamic network models. A discussion and examples of this methodology can be found [here.](http://www.richardclegg.org/sites/default/files/papers/feta_comnet_2015.pdf).
 
 # News
 
@@ -23,6 +21,7 @@ Prior to my PhD, I gained a BA in Mathematics at Murray Edwards College, Univers
 * Won the [Brendan Murphy Prize](http://coseners.net/history/brendan-murphy-prize/) for my talk "Mixed and time-varying models for network formation" at Coseners.
 * Presenting at the [Multi-Service Networks Workshop (Coseners)](http://coseners.net/coseners-2019/) in Abingdon, UK
 * Presenting with [Richard Clegg](https://www.richardclegg.org) at the [3rd UK Workshop on Network Science](https://sites.google.com/view/network-science-leeds/home) in Leeds, UK
+* Participated in the [Shadow TPC](https://conferences.sigcomm.org/imc/2019/shadow/) of the [ACM Internet Measurements Conference](https://conferences.sigcomm.org/imc/2019/)
 
 ## May 2019
 
