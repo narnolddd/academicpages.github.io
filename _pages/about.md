@@ -19,6 +19,7 @@ I maintain the [FETA](https://github.com/narnolddd/FETA3) (Framework for Evolvin
 ## July 2019
 
 * Won the [Brendan Murphy Prize](http://coseners.net/history/brendan-murphy-prize/) for my talk "Mixed and time-varying models for network formation" at Coseners.
+![alt-text](images/brendan_murphy.jpg "Brendan Murphy Prize")
 * Presenting at the [Multi-Service Networks Workshop (Coseners)](http://coseners.net/coseners-2019/) in Abingdon, UK
 * Presenting with [Richard Clegg](https://www.richardclegg.org) at the [3rd UK Workshop on Network Science](https://sites.google.com/view/network-science-leeds/home) in Leeds, UK
 * Participated in the [Shadow TPC](https://conferences.sigcomm.org/imc/2019/shadow/) of the [ACM Internet Measurements Conference](https://conferences.sigcomm.org/imc/2019/)
