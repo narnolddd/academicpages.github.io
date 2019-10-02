@@ -16,6 +16,9 @@ I maintain the [FETA](https://github.com/narnolddd/FETA3) (Framework for Evolvin
 
 # News
 
+## October 2019
+* Preprint on the arXiv: [Changing the tune: mixtures of network models that vary in time](https://arxiv.org/abs/1909.13253)
+
 ## July 2019
 
 * Won the [Brendan Murphy Prize](http://coseners.net/history/brendan-murphy-prize/) for my talk "Mixed and time-varying models for network formation" at Coseners.
