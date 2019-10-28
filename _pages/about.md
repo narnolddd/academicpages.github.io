@@ -18,6 +18,7 @@ I maintain the [FETA](https://github.com/narnolddd/FETA3) (Framework for Evolvin
 
 ## October 2019
 * Preprint on the arXiv: [Changing the tune: mixtures of network models that vary in time](https://arxiv.org/abs/1909.13253)
+* Attended the ACM [Internet Measurements Conference](https://conferences.sigcomm.org/imc/2019/) in Amsterdam, the Netherlands, thanks to an ACM student travel grant.
 
 ## July 2019
 
