@@ -1,7 +1,7 @@
 ---
 title: 'Advent Of Code Experience'
-date: 2012-08-14
-permalink: /posts/AdventOfCode18/
+date: 2019-11-26
+permalink: /posts/2019/11/AdventOfCode18/
 tags:
   - coding
   - experience
