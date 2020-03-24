@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Naomi Arnold, a PhD student within the [Networks group](https://www.eecs.qmul.ac.uk/research/view/networks) in the [School of Electronic Engineering and Computer Science](https://www.eecs.qmul.ac.uk/) at [Queen Mary University of London](https://www.qmul.ac.uk/). My supervisors are [Richard Clegg](https://www.richardclegg.org) and [Raul Mondragon](https://www.eecs.qmul.ac.uk/~raul/Rauls_page.html). My research interests are currently in the analysis and modelling of the topology of dynamic networks. Specific areas of interest to me are:
-* Identification and understanding of the small-scale mechanisms governing wider network structure
-* Characterisation and detection of changes in a network's growth behaviour
+I am Naomi Arnold, a PhD student within the [Networks group](https://www.eecs.qmul.ac.uk/research/view/networks) in the [School of Electronic Engineering and Computer Science](https://www.eecs.qmul.ac.uk/) at [Queen Mary University of London](https://www.qmul.ac.uk/). My supervisors are [Richard Clegg](https://www.richardclegg.org) and [Raul Mondragon](https://www.eecs.qmul.ac.uk/~raul/Rauls_page.html). My research interests are broadly in modelling different social and information systems as evolving graphs. Specific areas of interest to me are:
+* Network growth models: model selection and changepoint detection.
+* Tools for temporal networks.
 
 I maintain the [FETA](https://github.com/narnolddd/FETA3) (Framework for Evolving Topology Analysis) codebase for analysis of dynamic networks and their models, [first developed by Richard Clegg](https://github.com/richardclegg/FETA2) as an implementation of a likelihood-based approach to assess dynamic network models. A discussion and examples of this methodology can be found [here.](http://www.richardclegg.org/sites/default/files/papers/feta_comnet_2015.pdf).
 
