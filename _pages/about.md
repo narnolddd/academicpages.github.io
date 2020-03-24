@@ -16,6 +16,10 @@ I maintain the [FETA](https://github.com/narnolddd/FETA3) (Framework for Evolvin
 
 # News
 
+## January 2020
+* Two posters accepted at Complenet 2020: "Changing the tune: mixtures of network models that vary in time" and "What window works? The effect of varying temporal depth when analysing social network user interactions".
+* This year I will be teaching part of the [Digital Media and Social Networks](https://narnolddd.github.io/teaching/dmsn2020) course at QMUL. 
+
 ## October 2019
 * Preprint on the arXiv: [Changing the tune: mixtures of network models that vary in time](https://arxiv.org/abs/1909.13253)
 * Attended the ACM [Internet Measurements Conference](https://conferences.sigcomm.org/imc/2019/) in Amsterdam, the Netherlands, thanks to an ACM student travel grant.
