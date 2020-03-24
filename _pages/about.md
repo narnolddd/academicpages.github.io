@@ -12,7 +12,7 @@ I am Naomi Arnold, a PhD student within the [Networks group](https://www.eecs.qm
 * Network growth models: model selection and changepoint detection.
 * Tools for temporal networks.
 
-I maintain the [FETA](https://github.com/narnolddd/FETA3) (Framework for Evolving Topology Analysis) codebase with Richard Clegg, which can be used for generating graphs from different growth models, and for model selection against a network datasets.
+I maintain the [FETA](https://github.com/narnolddd/FETA3) (Framework for Evolving Topology Analysis) codebase with Richard Clegg, which can be used for generating graphs from different growth models, and for model selection (paper describing the background and process [here](https://arxiv.org/abs/1909.13253)).
 
 # News
 
