@@ -12,13 +12,13 @@ I am Naomi Arnold, a PhD student within the [Networks group](https://www.eecs.qm
 * Network growth models: model selection and changepoint detection.
 * Tools for temporal networks.
 
-I maintain the [FETA](https://github.com/narnolddd/FETA3) (Framework for Evolving Topology Analysis) codebase for analysis of dynamic networks and their models, [first developed by Richard Clegg](https://github.com/richardclegg/FETA2) as an implementation of a likelihood-based approach to assess dynamic network models. A discussion and examples of this methodology can be found [here.](http://www.richardclegg.org/sites/default/files/papers/feta_comnet_2015.pdf).
+I maintain the [FETA](https://github.com/narnolddd/FETA3) (Framework for Evolving Topology Analysis) codebase with Richard Clegg, which can be used for generating graphs from different growth models, and for model selection against a network datasets.
 
 # News
 
 ## January 2020
 * Two posters accepted at Complenet 2020: "Changing the tune: mixtures of network models that vary in time" and "What window works? The effect of varying temporal depth when analysing social network user interactions".
-* This year I will be teaching part of the [Digital Media and Social Networks](https://narnolddd.github.io/teaching/dmsn2020) course at QMUL. 
+* This year I will be teaching part of the [Digital Media and Social Networks](https://narnolddd.github.io/teaching/dmsn2020) course at QMUL.
 
 ## October 2019
 * Preprint on the arXiv: [Changing the tune: mixtures of network models that vary in time](https://arxiv.org/abs/1909.13253)
