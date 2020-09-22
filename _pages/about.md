@@ -14,7 +14,12 @@ I am Naomi Arnold, a PhD student within the [Networks group](https://www.eecs.qm
 
 I maintain the [FETA](https://github.com/narnolddd/FETA3) (Framework for Evolving Topology Analysis) codebase with Richard Clegg, which can be used for generating graphs from different growth models, and for model selection (paper describing the background and process [here](https://arxiv.org/abs/1909.13253)).
 
+I am also a contributor to the [Raphtory](https://raphtory.github.io/) software for the analysis of temporal graphs.
+
 # News
+
+## September 2020
+* Preprint on the arXiv: [Moving with the Times: Investigating the Alt-Right Network Gab using Temporal Interaction Graphs](https://arxiv.org/abs/2009.08322)
 
 ## January 2020
 * Two posters accepted at Complenet 2020: "Changing the tune: mixtures of network models that vary in time" and "What window works? The effect of varying temporal depth when analysing social network user interactions".
