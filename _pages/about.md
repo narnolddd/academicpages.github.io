@@ -18,8 +18,11 @@ I am also a contributor to the [Raphtory](https://raphtory.github.io/) software 
 
 # News
 
+## October 2020
+* Talk at Mishcon de Reya's reading group: [Temporal graph analysis of the far-right social network Gab](https://narnolddd.github.io/talks/mishcon2020)
+
 ## September 2020
-* Preprint on the arXiv: [Moving with the Times: Investigating the Alt-Right Network Gab using Temporal Interaction Graphs](https://arxiv.org/abs/2009.08322)
+* Preprint on the arXiv: [Moving with the Times: Investigating the Alt-Right Network Gab using Temporal Interaction Graphs](https://arxiv.org/abs/2009.08322Ye)
 
 ## January 2020
 * Two posters accepted at Complenet 2020: "Changing the tune: mixtures of network models that vary in time" and "What window works? The effect of varying temporal depth when analysing social network user interactions".
