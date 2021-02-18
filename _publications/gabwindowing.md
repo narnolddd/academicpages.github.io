@@ -1,5 +1,5 @@
 ---
-title: "Changing the tune: mixtures of network models that vary in time"
+title: "Moving with the Times: Investigating the Alt-Right Network Gab with Temporal Interaction Graphs"
 collection: publications
 permalink: /publication/gabwindowing
 date: 2019-10-01
