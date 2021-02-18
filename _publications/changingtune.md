@@ -3,7 +3,7 @@ title: "Changing the tune: mixtures of network models that vary in time"
 collection: publications
 permalink: /publication/changingtune
 date: 2021-02-07
-venue: 'ArXiv Preprint'
+venue: 'Nature Scientific Reports'
 paperurl: 'https://arxiv.org/abs/1909.13253'
 citation: 'Naomi A. Arnold, Raul J. Mondragon, Richard G. Clegg. Likelihood-based approach to discriminate mixtures of network models that vary in time (2021). arXiv:1909.13253'
 ---
