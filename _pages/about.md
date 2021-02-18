@@ -14,9 +14,21 @@ I am Naomi Arnold, a PhD student within the [Networks group](https://www.eecs.qm
 
 I maintain the [FETA](https://github.com/narnolddd/FETA3) (Framework for Evolving Topology Analysis) codebase with Richard Clegg, which can be used for generating graphs from different growth models, and for model selection (paper describing the background and process [here](https://arxiv.org/abs/1909.13253)).
 
+I am a Teaching Fellow at the QMUL School of EECS, delivering some of the Digital Media and Social Networks course, as well as running the Data Analytics microcredential module, supervising MSc projects and providing Java support for first year students.
+
 I am also a contributor to the [Raphtory](https://raphtory.github.io/) software for the analysis of temporal graphs.
 
 # News
+
+## February 2021
+* Paper accepted at Nature Scientific Reports! :tada: [Likelihood based method to distinguish mixtures of network models that vary in time](https://arxiv.org/abs/1909.13253)
+* Gave a talk at the QMUL Institute of Applied Data Science PhD Forum: [Investigating the Alt-Right Network Gab using Temporal Interaction Graphs]()
+
+## January 2021
+* This year I am again teaching the [Digital Media and Social Networks](https://narnolddd.github.io/teaching/dmsn2020) course at QMUL.
+
+## November 2021
+* I am now a Teaching Fellow at the School of EECS, QMUL! :tada:
 
 ## October 2020
 * Talk at Mishcon de Reya's reading group: [Temporal graph analysis of the far-right social network Gab](https://narnolddd.github.io/talks/mishcon2020)
